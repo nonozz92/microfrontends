@@ -1,0 +1,6 @@
+packages:
+  - 'cra/*'
+  - 'sharedComponent'
+  - 'host'
+  - 'remote'
+  - 'vitest'
